@@ -1,0 +1,12 @@
+[
+  {
+    "Title": "Introduction à Python",
+    "Description": "Cette leçon couvre les bases de la programmation en Python. Python est un language puissant et simple à apprendre.",
+    "Choices": [
+      "Python est puissant",
+      "Python est simple à apprendre",
+      "Les deux."
+    ],
+    "CorrectChoiceIndex": 2
+  }
+]
