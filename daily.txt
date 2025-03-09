@@ -1,0 +1,9 @@
+{
+  "problems": [
+    {
+      "name": "Print Hello World",
+      "inputs": ["input1", ""],
+      "outputs": ["Hello World", "Hello World"]
+    }
+  ]
+}
